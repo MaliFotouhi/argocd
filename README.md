@@ -8,6 +8,8 @@ To maintain a record of the learning progress, Proj1 focuses on a demo project p
 1. Docker 
 2. minikube v1.25.14
 3. Vscode
+4. Argocd
+5. kubenetes 1.25
 
 ## Appendix
 
