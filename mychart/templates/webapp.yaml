@@ -48,4 +48,4 @@ spec:
     - protocol: TCP
       port: {{ .Values.service.port }}
       targetPort: 3000
-      nodePort: 32200
+      nodePort: 32100
